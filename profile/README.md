@@ -1,4 +1,6 @@
-<img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/3d7a979f-0dfe-4045-b1cd-d6af3523ed6b" />
+<div align="center">
+  <img width="320" height="320" alt="PiPatrol Logo" src="https://github.com/user-attachments/assets/3d7a979f-0dfe-4045-b1cd-d6af3523ed6b" />
+</div>
 
 
 # 🛡️ PiPatrol
