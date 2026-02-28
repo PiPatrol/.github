@@ -1,3 +1,6 @@
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3d7a979f-0dfe-4045-b1cd-d6af3523ed6b" />
+
+
 # 🛡️ PiPatrol
 
 **Your home network's silent guardian.**
